@@ -219,6 +219,48 @@ body{
     color:#d2ddeb;
 }
 
+.box p{
+    color:#d2ddeb;
+    line-height:1.8;
+    margin-bottom:18px;
+}
+
+.box p:last-child{
+    margin-bottom:0;
+}
+
+.vapt-content{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.vapt-block{
+    background: #14243a;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.vapt-block:last-child{
+    margin-bottom: 0;
+}
+
+.vapt-block h3{
+    color: #00b8ff;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.vapt-block p{
+    color: #d2ddeb;
+    line-height: 1.8;
+    margin-bottom: 18px;
+}
+
+.vapt-block p:last-child{
+    margin-bottom: 0;
+}
+
 /* =========================
    BENEFITS
 ========================= */
