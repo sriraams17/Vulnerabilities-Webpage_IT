@@ -228,37 +228,26 @@ body{
 .box p:last-child{
     margin-bottom:0;
 }
-
 .vapt-content{
-    max-width: 1000px;
-    margin: 0 auto;
+    max-width:1000px;
+    margin:0 auto;
 }
 
 .vapt-block{
-    background: #14243a;
-    padding: 40px;
-    border-radius: 15px;
-    margin-bottom: 50px;
-}
-
-.vapt-block:last-child{
-    margin-bottom: 0;
-}
-
-.vapt-block h3{
-    color: #00b8ff;
-    margin-bottom: 20px;
-    font-size: 28px;
+    background:#14243a;
+    padding:45px;
+    border-radius:15px;
 }
 
 .vapt-block p{
-    color: #d2ddeb;
-    line-height: 1.8;
-    margin-bottom: 18px;
+    color:#d2ddeb;
+    line-height:1.9;
+    margin-bottom:22px;
+    font-size:17px;
 }
 
 .vapt-block p:last-child{
-    margin-bottom: 0;
+    margin-bottom:0;
 }
 
 /* =========================
@@ -309,6 +298,13 @@ body{
     max-width:1000px;
 
     margin:auto;
+}
+
+.mitigation{
+    margin-top:15px;
+    padding-top:15px;
+    border-top:1px solid rgba(255,255,255,0.1);
+    color:#d2ddeb;
 }
 
 .service-card{
